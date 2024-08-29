@@ -1,0 +1,47 @@
+How to run a Python Script
+Python Basics and Flow Control
+Python Functions
+Lists, Dictionaries, and Structuring Data
+String manipulation and Regular expressions
+Working with Files
+Python Exception handling
+Debugging python scripts
+Working with Linux system configuration.
+Monitoring alerts using python
+System health checks using python
+Managing cron using Python.
+Using Python Modules (Very Important concept to learn)
+
+
+
+
+
+
+
+OS Module
+Subprocess
+JSON
+urlib3
+HTTP
+Kubernetes Python Client
+StatsD
+GitPython
+Requests
+Scapy
+pytest
+Testinfra
+Jinja2
+PyYAML
+Graypy
+Paramiko
+Fabric
+
+
+
+
+
+
+
+
+
+
