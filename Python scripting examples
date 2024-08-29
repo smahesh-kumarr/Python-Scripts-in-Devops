@@ -1,0 +1,50 @@
+Parse a JSON file: Use json module to load and parse JSON data.
+Make an HTTP API call with a bearer token: Use requests library to send authenticated API requests.
+Execute SQL statements on PostgreSQL: Use psycopg2 to connect to PostgreSQL and run queries.
+Create an EC2 instance using Python boto3: Use boto3 to interact with AWS and launch EC2 instances.
+Parse an IP address: Use ipaddress module to validate and manipulate IP addresses.
+Segregate IP addresses from a CIDR range: Use ipaddress to manage IP ranges and extract addresses.
+Retrieve Linux system details: Use psutil to get CPU, memory, disk space, and process information.
+Execute a shell script from Python: Use subprocess to run shell commands and scripts.
+Install Nginx in Linux using Python: Automate Nginx installation with subprocess or os module.
+Replace a string in a configuration file: Use fileinput and re to search and replace text.
+Retrieve AWS EMR master IP address: Use boto3 to get details of EMR clusters and extract the master node IP.
+List all Kubernetes pods in a namespace: Use kubernetes library to interact with the cluster and list pods.
+Automate Docker container management: Use docker library to create, start, and stop containers.
+Monitor system logs: Read and analyze log files using logging module or external libraries.
+Manage AWS S3 buckets and objects: Use boto3 for creating, listing, and deleting S3 buckets and objects.
+Automate software installation and updates: Use scripts to automate package installation and updates.
+Schedule cron jobs using Python: Use croniter and os to create and manage cron jobs.
+Integrate with CI/CD pipelines: Use libraries to interact with CI/CD tools like Jenkins or GitLab.
+Generate and send email notifications: Use smtplib to send emails based on specific events.
+Implement basic network monitoring: Use psutil or external libraries to monitor network interfaces and traffic.
+Manage SSH connections and execute remote commands: Use paramiko to manage SSH sessions.
+Create and manage virtual machines: Use libraries to interact with virtualization platforms like VMware or VirtualBox.
+Automate backup and restore processes: Write scripts to back up data to secure locations and restore it when needed.
+Monitor application performance metrics: Use libraries to collect and analyze application performance data.
+Implement configuration management: Use tools like Ansible and integrate them with Python scripts.
+Automate cloud resource provisioning: Use cloud SDKs to automate the setup of cloud resources.
+Deploy applications to Kubernetes: Use the Kubernetes API to automate application deployments.
+Manage DNS records: Use libraries to interact with DNS providers and manage records.
+Automate firewall configurations: Write scripts to configure firewalls on servers or cloud providers.
+Create custom monitoring dashboards: Use libraries like matplotlib or plotly to visualize data.
+Automate TLS/SSL certificate renewal: Use certbot to manage and renew certificates from Let’s Encrypt.
+Perform automated database backups: Write scripts to regularly back up databases and store them securely.
+Implement log rotation: Use tools like logrotate and automate it with scripts.
+Monitor and scale cloud infrastructure: Write scripts to monitor resource usage and scale cloud resources as needed.
+Manage Kubernetes secrets: Use the Kubernetes API to securely manage sensitive data.
+Automate infrastructure testing: Use testing libraries to validate infrastructure configurations and deployments.
+Parse and analyze logs for error patterns: Write scripts to read log files and identify common error patterns.
+Monitor website uptime and response times: Use libraries to periodically check website status and notify on issues.
+Implement blue-green deployment strategies: Automate the deployment process to ensure zero downtime.
+Set up a Python-based alerting system: Use libraries to monitor systems and send alerts based on specific conditions.
+Automate code linting and formatting: Integrate tools like flake8 or black to maintain code quality.
+Manage IAM roles and policies in AWS: Use boto3 to handle AWS IAM roles and permissions.
+Implement security scanning for containers: Use tools to scan container images for vulnerabilities.
+Automate incident response: Write scripts to automate response actions based on monitoring alerts.
+Generate and manage SSH key pairs: Use libraries to create and distribute SSH keys securely.
+Create custom AWS CloudFormation stacks: Use boto3 to automate the creation and management of CloudFormation stacks.
+Manage Redis or Memcached instances: Use libraries to connect to and manage these caching systems.
+Implement a webhook listener for GitHub events: Use frameworks to create webhooks and handle GitHub events.
+Automate health checks for services: Write scripts to perform periodic health checks on services and applications.
+Create a self-healing infrastructure setup: Use monitoring and automation tools to detect and fix infrastructure issues automatically.
