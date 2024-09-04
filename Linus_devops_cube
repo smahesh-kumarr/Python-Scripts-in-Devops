@@ -1,0 +1,17 @@
+Understand the Linux booting process
+Understand systemd
+Install and Configure web servers (Apache, Nginx, Tomcat, etc..) and learn how web servers work.
+Learn how Linux processes work.
+Learn to setup HTTP proxies.
+Learn how SSH works.
+Learn about different file systems.
+Learn how volumes work in Linux.
+Learn about system logging, monitoring, and troubleshooting.
+Learn about important protocols (SSL, TLS, TCP, UDP, FTP, SFTP, SCP, SSH)
+Learn to manage services and try to create a service on your own (Initd, Systemd)
+Host static/Dynamic websites on web servers and play around with different configurations.
+Understand the difference between a Load Balancer and a Reverse Proxy/
+Setup Load balancers and reverse Proxy (Nginx, HA proxy, etc.). Understand each configuration and algorithm behind load balancing.
+Learn to optimize Linux performance.
+Setup and Database and understand its configurations and management. (Eg: PostgreSQL Setup)
+Break something and learn to troubleshoot.
